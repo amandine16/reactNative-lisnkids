@@ -1,15 +1,17 @@
 <h1 align="center">
-	Lisnkids | React Native
+	Lisnkids | React Native 
 </h1>
 
 <p align="center">
 	<img src="lisnkids.gif" width="100%">
-
 </p>
 
 ## Intro
 
-<p>2021 | PROJECTFULL-STACK-REACTNATIVE-NODEJS | LISNKIDS <br>
+Collaborate with [Julie Mahe](https://github.com/JudySabi)
+
+<p>2021 | PROJECTFULL-STACK-REACTNATIVE-NODEJS | LISNKIDS 
+<br>
 MVP of a mobile app that offers audiobook series for children, inspired by apps like Netflix.
 </p>
 
